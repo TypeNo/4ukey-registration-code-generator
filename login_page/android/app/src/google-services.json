@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162071103580",
+    "project_id": "login-page-20a18",
+    "storage_bucket": "login-page-20a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162071103580:android:a8a64471e76a6cb38c7e99",
+        "android_client_info": {
+          "package_name": "com.Airostintern.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162071103580-528tenu205lp0igvbqe51aabie5nohem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd1PJg3wH3iru4ReU-k8wepVzV0kKHAFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162071103580-528tenu205lp0igvbqe51aabie5nohem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
